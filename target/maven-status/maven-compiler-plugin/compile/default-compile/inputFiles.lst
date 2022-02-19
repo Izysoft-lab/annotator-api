@@ -1,0 +1,11 @@
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/GateController.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/Gazetteer.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/DocumentReset.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/Test.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/Annotation.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/GaterestapiApplication.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/DefaultGazetteer.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/POSTagger.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/Morpher.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/Tokenizer.java
+/home/paul/sigir_api_demonstration/Backup_gate_rest/gaterestapi/src/main/java/com/example/gaterestapi/SentenceSplitter.java
